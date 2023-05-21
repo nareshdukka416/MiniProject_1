@@ -1,0 +1,12 @@
+streamlit
+spektral
+Pillow
+tensorflow
+networkx
+matplotlib
+seaborn
+numpy
+scikit-learn
+scikit-image
+opencv-python-headless
+scipy
